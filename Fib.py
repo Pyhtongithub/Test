@@ -3,4 +3,4 @@ for i in range (51):
     print(b)
     a,b = b, a+b
 
-print "hello GUrgaon"
+print ("hello Gurgaon")
